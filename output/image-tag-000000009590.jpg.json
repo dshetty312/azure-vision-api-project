@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "name": "people_many",
+            "score": 0.828125
+        }
+    ],
+    "color": {
+        "accentColor": "284468",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Black",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9906201123733935,
+                "text": "a group of people sitting at a table"
+            }
+        ],
+        "tags": [
+            "person",
+            "table",
+            "indoor",
+            "sitting",
+            "man",
+            "window",
+            "people",
+            "food",
+            "group",
+            "looking",
+            "glasses",
+            "eating",
+            "plate",
+            "laptop",
+            "restaurant",
+            "wine",
+            "wooden",
+            "woman",
+            "young",
+            "room"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000009590.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "72312cff-3689-4b44-9e32-7247834d72e1"
+}

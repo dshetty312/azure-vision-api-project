@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "name": "food_",
+            "score": 0.5625
+        }
+    ],
+    "color": {
+        "accentColor": "C33F02",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Yellow",
+        "dominantColors": [
+            "White",
+            "Yellow"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.951357063537558,
+                "text": "a bunch of different types of food"
+            }
+        ],
+        "tags": [
+            "photo",
+            "food",
+            "different",
+            "plate",
+            "box",
+            "bunch",
+            "white",
+            "cake",
+            "rice"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000008629.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 640
+    },
+    "requestId": "3711bb57-94a1-4544-a991-8fb84d87a410"
+}

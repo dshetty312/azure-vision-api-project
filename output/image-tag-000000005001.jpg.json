@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_crowd",
+            "score": 0.296875
+        },
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_group",
+            "score": 0.6484375
+        }
+    ],
+    "color": {
+        "accentColor": "1963B2",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9408183111543362,
+                "text": "a group of people standing in front of a crowd posing for the camera"
+            }
+        ],
+        "tags": [
+            "person",
+            "group",
+            "building",
+            "people",
+            "child",
+            "man",
+            "holding",
+            "posing",
+            "standing",
+            "photo",
+            "woman",
+            "young",
+            "bench",
+            "front",
+            "cake",
+            "table",
+            "sitting",
+            "truck",
+            "girl",
+            "food",
+            "playing",
+            "player",
+            "red",
+            "court",
+            "park",
+            "cutting",
+            "ball",
+            "large",
+            "game",
+            "old",
+            "soccer",
+            "video",
+            "wii",
+            "crowd",
+            "pizza",
+            "remote",
+            "room",
+            "white"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000005001.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "cf317449-c8f3-4544-94da-1a53062ce762"
+}

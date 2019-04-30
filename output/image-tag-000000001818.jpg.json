@@ -1,0 +1,65 @@
+{
+    "categories": [
+        {
+            "name": "abstract_net",
+            "score": 0.2890625
+        },
+        {
+            "name": "abstract_shape",
+            "score": 0.55078125
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "151517",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "White",
+            "Grey"
+        ],
+        "isBWImg": true,
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9805698398690567,
+                "text": "a close up of a zebra"
+            }
+        ],
+        "tags": [
+            "zebra",
+            "outdoor",
+            "animal",
+            "grass",
+            "standing",
+            "field",
+            "black",
+            "white",
+            "photo",
+            "looking",
+            "young",
+            "close",
+            "side",
+            "grassy",
+            "group",
+            "head",
+            "baby",
+            "grazing",
+            "giraffe",
+            "horse"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001818.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 425,
+        "width": 640
+    },
+    "requestId": "4a7cfe61-8837-4178-ac68-a2d5f45d8860"
+}

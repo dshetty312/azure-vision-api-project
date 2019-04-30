@@ -1,0 +1,70 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        },
+        {
+            "name": "people_many",
+            "score": 0.390625
+        }
+    ],
+    "color": {
+        "accentColor": "2F3F5F",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey",
+            "Green"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9702964877229894,
+                "text": "a batter catcher and umpire during a baseball game"
+            }
+        ],
+        "tags": [
+            "baseball",
+            "grass",
+            "person",
+            "player",
+            "outdoor",
+            "game",
+            "sport",
+            "bat",
+            "swinging",
+            "catcher",
+            "ball",
+            "plate",
+            "holding",
+            "field",
+            "standing",
+            "umpire",
+            "man",
+            "batter",
+            "home",
+            "base",
+            "playing",
+            "ready",
+            "pitch",
+            "crowd",
+            "catch",
+            "group"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006471.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 333,
+        "width": 500
+    },
+    "requestId": "31ea4c9f-a880-4078-90f2-fffb74ac489b"
+}

@@ -1,0 +1,53 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.06640625
+        }
+    ],
+    "color": {
+        "accentColor": "594E41",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7107008220774104,
+                "text": "a cup of coffee on a table"
+            }
+        ],
+        "tags": [
+            "cup",
+            "coffee",
+            "table",
+            "indoor",
+            "sitting",
+            "keyboard",
+            "fork",
+            "piece",
+            "pair",
+            "food",
+            "glass",
+            "computer",
+            "black",
+            "wooden",
+            "zebra",
+            "mug",
+            "white",
+            "plate"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002592.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 366,
+        "width": 640
+    },
+    "requestId": "c6211681-87cc-4b18-b4bd-326d47b7f266"
+}

@@ -1,0 +1,64 @@
+{
+    "categories": [
+        {
+            "name": "indoor_room",
+            "score": 0.96484375
+        }
+    ],
+    "color": {
+        "accentColor": "8C743F",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9797675076513221,
+                "text": "a bedroom with a large bed in a hotel room"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "bed",
+            "room",
+            "hotel",
+            "bedroom",
+            "ceiling",
+            "window",
+            "large",
+            "made",
+            "sitting",
+            "nice",
+            "table",
+            "decorated",
+            "flat",
+            "big",
+            "modern",
+            "television",
+            "living",
+            "clean",
+            "furniture",
+            "view",
+            "white",
+            "double",
+            "desk",
+            "screen",
+            "mirror",
+            "glass",
+            "night",
+            "red"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007795.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "9a537c89-26b0-4c25-9706-9aeb218674c5"
+}

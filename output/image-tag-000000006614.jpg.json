@@ -1,0 +1,54 @@
+{
+    "categories": [
+        {
+            "name": "people_baby",
+            "score": 0.94921875
+        }
+    ],
+    "color": {
+        "accentColor": "414141",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": true,
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7549344161084242,
+                "text": "a pile of fruit"
+            }
+        ],
+        "tags": [
+            "food",
+            "doughnut",
+            "pile",
+            "sitting",
+            "covered",
+            "fruit",
+            "donut",
+            "white",
+            "filled",
+            "full",
+            "board",
+            "snow",
+            "table",
+            "black",
+            "plate",
+            "many",
+            "laying",
+            "stacked"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006614.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 396,
+        "width": 500
+    },
+    "requestId": "628e82c2-5c01-4840-8c93-74363d36fb3d"
+}

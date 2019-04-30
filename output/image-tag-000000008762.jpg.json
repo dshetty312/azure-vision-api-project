@@ -1,0 +1,64 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.0234375
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0234375
+        }
+    ],
+    "color": {
+        "accentColor": "8E9E2D",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8824436002383872,
+                "text": "a traffic light hanging off the side of the street"
+            }
+        ],
+        "tags": [
+            "light",
+            "outdoor",
+            "traffic",
+            "hanging",
+            "street",
+            "green",
+            "red",
+            "stop",
+            "view",
+            "intersection",
+            "road",
+            "line",
+            "car",
+            "bunch",
+            "night",
+            "city",
+            "sign"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000008762.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "a59f2b32-f3b9-4d96-9fd5-3a61d9e40397"
+}

@@ -1,0 +1,71 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.01171875
+        },
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_",
+            "score": 0.5546875
+        }
+    ],
+    "color": {
+        "accentColor": "694924",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Black",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9831565052611672,
+                "text": "a man wearing a suit and tie looking at the camera"
+            }
+        ],
+        "tags": [
+            "person",
+            "necktie",
+            "man",
+            "wearing",
+            "indoor",
+            "clothing",
+            "shirt",
+            "suit",
+            "looking",
+            "dress",
+            "standing",
+            "jacket",
+            "camera",
+            "young",
+            "hair",
+            "posing",
+            "front",
+            "dressed",
+            "pink",
+            "glasses",
+            "smiling",
+            "neck",
+            "white",
+            "yellow",
+            "holding",
+            "woman",
+            "blue",
+            "red"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000004395.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 425
+    },
+    "requestId": "3512f7b7-e812-47f3-82f7-c2c633029387"
+}

@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "name": "text_sign",
+            "score": 0.1171875
+        }
+    ],
+    "color": {
+        "accentColor": "162436",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8892783779823826,
+                "text": "a man is getting ready to hit a ball with a racket"
+            }
+        ],
+        "tags": [
+            "sport",
+            "game",
+            "road",
+            "man",
+            "person",
+            "ball",
+            "grass",
+            "racket",
+            "player",
+            "getting",
+            "holding",
+            "male",
+            "standing",
+            "ready",
+            "court",
+            "water",
+            "preparing",
+            "playing",
+            "shirt",
+            "crowd",
+            "blue",
+            "swinging",
+            "white"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000000885.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "181ef043-ad02-40bf-8ea9-afc8fd0dee48"
+}

@@ -1,0 +1,68 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_group",
+            "score": 0.47265625
+        }
+    ],
+    "color": {
+        "accentColor": "7B2D25",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9782711711640307,
+                "text": "a group of people posing for a picture"
+            }
+        ],
+        "tags": [
+            "person",
+            "outdoor",
+            "group",
+            "people",
+            "standing",
+            "court",
+            "racket",
+            "holding",
+            "young",
+            "posing",
+            "child",
+            "man",
+            "woman",
+            "table",
+            "boy",
+            "game",
+            "park",
+            "ball",
+            "wearing",
+            "playing",
+            "player",
+            "red"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001000.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "d907ccbe-a22d-46e8-9fe0-f050d30ca5a8"
+}

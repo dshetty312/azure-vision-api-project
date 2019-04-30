@@ -1,0 +1,73 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_group",
+            "score": 0.2734375
+        },
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_many",
+            "score": 0.5546875
+        }
+    ],
+    "color": {
+        "accentColor": "82913A",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "White",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8631242764140679,
+                "text": "a person petting a dog"
+            }
+        ],
+        "tags": [
+            "person",
+            "dog",
+            "fence",
+            "outdoor",
+            "sitting",
+            "grass",
+            "animal",
+            "petting",
+            "black",
+            "mammal",
+            "little",
+            "holding",
+            "small",
+            "woman",
+            "girl",
+            "child",
+            "front",
+            "standing",
+            "white",
+            "young",
+            "sheep",
+            "table",
+            "man",
+            "baby",
+            "laying",
+            "field",
+            "people"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000008690.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "b3414744-bbc5-4f88-88f7-f4534c5e9d78"
+}

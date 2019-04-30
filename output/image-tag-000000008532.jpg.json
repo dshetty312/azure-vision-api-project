@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_portrait",
+            "score": 0.73828125
+        }
+    ],
+    "color": {
+        "accentColor": "394F92",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9541146302137615,
+                "text": "a man wearing a hat and glasses"
+            }
+        ],
+        "tags": [
+            "person",
+            "man",
+            "wearing",
+            "building",
+            "necktie",
+            "clothing",
+            "glasses",
+            "hat",
+            "looking",
+            "suit",
+            "blue",
+            "red",
+            "sunglasses",
+            "standing",
+            "white",
+            "black",
+            "shirt",
+            "neck"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000008532.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 426,
+        "width": 640
+    },
+    "requestId": "5db32c7d-ca2f-4cc8-9f24-fba7feff3271"
+}

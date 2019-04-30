@@ -1,0 +1,59 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "795C52",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9448568139936206,
+                "text": "a man riding a skateboard down the side of a ramp"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "game",
+            "man",
+            "sport",
+            "road",
+            "park",
+            "riding",
+            "ramp",
+            "board",
+            "trick",
+            "young",
+            "cement",
+            "doing",
+            "boy",
+            "jumping",
+            "side",
+            "air",
+            "performing",
+            "street",
+            "city"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007977.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 429
+    },
+    "requestId": "6e5b54ac-e55b-46de-b2c1-3f33a4732ce5"
+}

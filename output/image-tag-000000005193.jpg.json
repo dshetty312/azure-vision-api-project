@@ -1,0 +1,87 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "celebrities": [
+                    {
+                        "confidence": 0.7110498547554016,
+                        "faceRectangle": {
+                            "height": 43,
+                            "left": 407,
+                            "top": 127,
+                            "width": 43
+                        },
+                        "name": "Donovan Solano"
+                    }
+                ]
+            },
+            "name": "people_group",
+            "score": 0.25
+        },
+        {
+            "detail": {
+                "celebrities": [
+                    {
+                        "confidence": 0.7110498547554016,
+                        "faceRectangle": {
+                            "height": 43,
+                            "left": 407,
+                            "top": 127,
+                            "width": 43
+                        },
+                        "name": "Donovan Solano"
+                    }
+                ]
+            },
+            "name": "people_many",
+            "score": 0.42578125
+        }
+    ],
+    "color": {
+        "accentColor": "264078",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9756279885358066,
+                "text": "Donovan Solano et al. posing for the camera"
+            }
+        ],
+        "tags": [
+            "person",
+            "indoor",
+            "man",
+            "holding",
+            "standing",
+            "people",
+            "photo",
+            "posing",
+            "group",
+            "woman",
+            "couple",
+            "table",
+            "wearing",
+            "room",
+            "young",
+            "kitchen",
+            "skiing",
+            "snow",
+            "white"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000005193.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 425,
+        "width": 640
+    },
+    "requestId": "5d939550-5a13-4c99-9322-5596124792e1"
+}

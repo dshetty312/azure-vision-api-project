@@ -1,0 +1,64 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_road",
+            "score": 0.9765625
+        }
+    ],
+    "color": {
+        "accentColor": "326099",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9197655105036037,
+                "text": "a street scene with focus on the side of a road"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "road",
+            "building",
+            "scene",
+            "street",
+            "side",
+            "highway",
+            "sign",
+            "city",
+            "stop",
+            "train",
+            "intersection",
+            "corner",
+            "track",
+            "traffic",
+            "red",
+            "middle",
+            "empty",
+            "bus",
+            "green",
+            "light",
+            "tall",
+            "driving",
+            "brick",
+            "parked"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006723.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 361,
+        "width": 640
+    },
+    "requestId": "2e96964f-b825-4350-be4c-05f81907500e"
+}

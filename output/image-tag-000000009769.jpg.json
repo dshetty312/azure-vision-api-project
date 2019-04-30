@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.02734375
+        }
+    ],
+    "color": {
+        "accentColor": "683434",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9199990854975792,
+                "text": "a car parked on the side of a snow covered road"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "snow",
+            "car",
+            "road",
+            "building",
+            "truck",
+            "house",
+            "red",
+            "man",
+            "street",
+            "parked",
+            "covered",
+            "riding",
+            "hydrant",
+            "white",
+            "standing",
+            "bed",
+            "people"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000009769.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "4fbc1b61-f406-4158-9756-1458db78fb47"
+}

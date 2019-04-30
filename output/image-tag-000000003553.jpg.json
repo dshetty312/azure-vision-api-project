@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.01171875
+        },
+        {
+            "name": "others_",
+            "score": 0.01171875
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "51582E",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Black",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6565055530939098,
+                "text": "a young man riding a skateboard"
+            }
+        ],
+        "tags": [
+            "grass",
+            "outdoor",
+            "person",
+            "riding",
+            "bench",
+            "board",
+            "young",
+            "man",
+            "park",
+            "skateboard",
+            "feet",
+            "shoes",
+            "wearing",
+            "doing",
+            "boy",
+            "foot",
+            "trick",
+            "green",
+            "wooden",
+            "black",
+            "standing",
+            "street"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000003553.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "fd50fb87-7a74-4075-83ba-f9ed91d56384"
+}

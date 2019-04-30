@@ -1,0 +1,55 @@
+{
+    "categories": [
+        {
+            "name": "food_",
+            "score": 0.94140625
+        }
+    ],
+    "color": {
+        "accentColor": "9D312E",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9748660557735065,
+                "text": "a white plate topped with meat potatoes and broccoli"
+            }
+        ],
+        "tags": [
+            "plate",
+            "food",
+            "table",
+            "broccoli",
+            "indoor",
+            "meat",
+            "white",
+            "bowl",
+            "meal",
+            "red",
+            "rice",
+            "sitting",
+            "topped",
+            "black",
+            "filled",
+            "dinner",
+            "sauce",
+            "full",
+            "holding",
+            "orange"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000003501.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 612,
+        "width": 612
+    },
+    "requestId": "bd2f15ee-0faf-4396-83fd-f1f8464a7791"
+}

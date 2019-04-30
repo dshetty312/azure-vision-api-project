@@ -1,0 +1,59 @@
+{
+    "categories": [
+        {
+            "name": "trans_bicycle",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "4C612B",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Grey",
+            "Green"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8407436561201301,
+                "text": "a man riding on the back of a motorcycle"
+            }
+        ],
+        "tags": [
+            "motorcycle",
+            "road",
+            "grass",
+            "outdoor",
+            "riding",
+            "man",
+            "street",
+            "racing",
+            "driving",
+            "people",
+            "wearing",
+            "track",
+            "white",
+            "police",
+            "parked",
+            "yellow",
+            "red",
+            "group",
+            "standing",
+            "doing",
+            "city",
+            "trick",
+            "flying"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007816.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "4d1b8f3d-0c2a-4a14-b3bc-775209741efc"
+}

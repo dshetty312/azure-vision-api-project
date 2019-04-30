@@ -1,0 +1,53 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.01953125
+        }
+    ],
+    "color": {
+        "accentColor": "222222",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White",
+            "Black"
+        ],
+        "isBWImg": true,
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9849474294972334,
+                "text": "a close up of a plate of food"
+            }
+        ],
+        "tags": [
+            "plate",
+            "food",
+            "indoor",
+            "table",
+            "white",
+            "sitting",
+            "cup",
+            "bowl",
+            "small",
+            "close",
+            "filled",
+            "sandwich"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001425.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 512,
+        "width": 640
+    },
+    "requestId": "e058e494-6ae6-40b5-aaec-00171eb66c1d"
+}

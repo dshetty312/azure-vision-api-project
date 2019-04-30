@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.015625
+        }
+    ],
+    "color": {
+        "accentColor": "405D36",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9568599002024583,
+                "text": "a man riding skis down a snow covered slope"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "snow",
+            "skiing",
+            "person",
+            "nature",
+            "slope",
+            "man",
+            "hill",
+            "going",
+            "riding",
+            "covered",
+            "black",
+            "mountain",
+            "wearing",
+            "walking",
+            "young",
+            "pair",
+            "standing",
+            "white"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000005529.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 444
+    },
+    "requestId": "a4b277ff-dff1-4a91-b0d9-17f78174eae0"
+}

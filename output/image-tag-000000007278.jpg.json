@@ -1,0 +1,72 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.01171875
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_oceanbeach",
+            "score": 0.703125
+        }
+    ],
+    "color": {
+        "accentColor": "6C333D",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.968017955389174,
+                "text": "a man riding a wave on a surfboard in the ocean"
+            }
+        ],
+        "tags": [
+            "wave",
+            "surfing",
+            "water",
+            "sport",
+            "riding",
+            "outdoor",
+            "man",
+            "person",
+            "ocean",
+            "board",
+            "big",
+            "green",
+            "young",
+            "shirt",
+            "suit",
+            "small",
+            "wearing",
+            "male",
+            "large",
+            "wet",
+            "jumping",
+            "air",
+            "yellow",
+            "woman",
+            "pink",
+            "white",
+            "trick"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007278.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 482,
+        "width": 640
+    },
+    "requestId": "6bda2491-02ea-420e-9433-3dc3e9633833"
+}

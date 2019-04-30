@@ -1,0 +1,71 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "building_",
+            "score": 0.234375
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "building_doorwindows",
+            "score": 0.35546875
+        }
+    ],
+    "color": {
+        "accentColor": "783F3E",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7918700707814971,
+                "text": "a bicycle parked in front of a brick building"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "building",
+            "street",
+            "sidewalk",
+            "bicycle",
+            "front",
+            "house",
+            "parked",
+            "old",
+            "side",
+            "walking",
+            "small",
+            "sitting",
+            "red",
+            "city",
+            "brick",
+            "door",
+            "bench",
+            "store",
+            "dog",
+            "sign",
+            "man",
+            "white",
+            "hydrant",
+            "fire"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000008899.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 539,
+        "width": 640
+    },
+    "requestId": "547369c2-8786-4632-acf4-49d749a69fab"
+}

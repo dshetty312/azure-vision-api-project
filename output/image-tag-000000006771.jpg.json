@@ -1,0 +1,67 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_",
+            "score": 0.4453125
+        },
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_group",
+            "score": 0.23828125
+        }
+    ],
+    "color": {
+        "accentColor": "AC1F25",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9547139250290497,
+                "text": "a group of people standing in front of a crowd"
+            }
+        ],
+        "tags": [
+            "person",
+            "outdoor",
+            "building",
+            "man",
+            "people",
+            "standing",
+            "woman",
+            "looking",
+            "holding",
+            "wearing",
+            "group",
+            "street",
+            "wine",
+            "dressed",
+            "red",
+            "city",
+            "talking",
+            "glasses",
+            "crowd",
+            "riding",
+            "hat"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006771.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "fe9574de-7170-4dad-95ad-e5381851a305"
+}

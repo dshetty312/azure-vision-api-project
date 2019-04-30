@@ -1,0 +1,81 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_group",
+            "score": 0.390625
+        },
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_many",
+            "score": 0.40234375
+        }
+    ],
+    "color": {
+        "accentColor": "A3283D",
+        "dominantColorBackground": "Green",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Green"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.4554881000385924,
+                "text": "a group of young children sitting next to a teddy bear"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "grass",
+            "person",
+            "child",
+            "sitting",
+            "young",
+            "holding",
+            "little",
+            "group",
+            "bear",
+            "boy",
+            "teddy",
+            "small",
+            "girl",
+            "stuffed",
+            "posing",
+            "baby",
+            "food",
+            "playing",
+            "woman",
+            "fruit",
+            "people",
+            "white",
+            "eating",
+            "field",
+            "man",
+            "standing",
+            "ball"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006954.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "15e21a5a-2608-4788-bdef-1ea19eed51fe"
+}

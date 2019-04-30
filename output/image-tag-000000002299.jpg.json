@@ -1,0 +1,73 @@
+{
+    "categories": [
+        {
+            "name": "people_crowd",
+            "score": 0.32421875
+        },
+        {
+            "name": "people_group",
+            "score": 0.66015625
+        }
+    ],
+    "color": {
+        "accentColor": "666666",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black",
+            "White"
+        ],
+        "isBWImg": true,
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9791509894003443,
+                "text": "a group of people posing for a photo"
+            }
+        ],
+        "tags": [
+            "posing",
+            "photo",
+            "person",
+            "outdoor",
+            "group",
+            "team",
+            "young",
+            "boy",
+            "building",
+            "game",
+            "sport",
+            "man",
+            "standing",
+            "front",
+            "old",
+            "player",
+            "racket",
+            "school",
+            "wearing",
+            "grass",
+            "black",
+            "sitting",
+            "large",
+            "male",
+            "child",
+            "court",
+            "holding",
+            "woman",
+            "basketball",
+            "female",
+            "white",
+            "people"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002299.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 302,
+        "width": 500
+    },
+    "requestId": "791951ba-2f5b-4241-b416-d45e3cf48055"
+}

@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {
+            "name": "food_",
+            "score": 0.90625
+        }
+    ],
+    "color": {
+        "accentColor": "4F590E",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Brown",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.958152445385081,
+                "text": "a plate of food with rice and vegetables"
+            }
+        ],
+        "tags": [
+            "food",
+            "plate",
+            "rice",
+            "black",
+            "table",
+            "container",
+            "sitting",
+            "plastic",
+            "chicken",
+            "spoon",
+            "meal",
+            "tray",
+            "white",
+            "fork",
+            "holding",
+            "filled",
+            "dish",
+            "cheese",
+            "meat",
+            "bowl",
+            "broccoli"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000008277.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 612,
+        "width": 612
+    },
+    "requestId": "20205270-c879-408f-892f-1b53da874ad5"
+}

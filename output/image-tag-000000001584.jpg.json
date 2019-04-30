@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "name": "trans_bus",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "B4172C",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Red",
+        "dominantColors": [
+            "Red",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9788235362679562,
+                "text": "a red double decker bus driving down a street"
+            }
+        ],
+        "tags": [
+            "road",
+            "decker",
+            "double",
+            "outdoor",
+            "bus",
+            "red",
+            "street",
+            "building",
+            "driving",
+            "city",
+            "traveling",
+            "large",
+            "riding",
+            "high",
+            "tall",
+            "truck"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001584.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 612,
+        "width": 612
+    },
+    "requestId": "b1ef3fd2-66f6-46a0-a43b-2d0490057a0d"
+}

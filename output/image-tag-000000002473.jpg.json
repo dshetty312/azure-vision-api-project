@@ -1,0 +1,51 @@
+{
+    "categories": [],
+    "color": {
+        "accentColor": "375B94",
+        "dominantColorBackground": "Blue",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Blue",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.951935533782252,
+                "text": "a man flying through the air on a snow covered slope"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "snow",
+            "snowboarding",
+            "jumping",
+            "air",
+            "skiing",
+            "man",
+            "flying",
+            "slope",
+            "hill",
+            "riding",
+            "doing",
+            "game",
+            "trick",
+            "wearing",
+            "board",
+            "ramp",
+            "covered",
+            "people",
+            "standing"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002473.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "351a4058-3569-4e90-a12a-72c6a9d832a7"
+}

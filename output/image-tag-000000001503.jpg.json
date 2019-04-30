@@ -1,0 +1,55 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.01171875
+        },
+        {
+            "name": "object_screen",
+            "score": 0.9296875
+        }
+    ],
+    "color": {
+        "accentColor": "585046",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9776578774092931,
+                "text": "a desktop computer sitting on top of a desk"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "computer",
+            "table",
+            "electronics",
+            "desk",
+            "window",
+            "monitor",
+            "sitting",
+            "keyboard",
+            "white",
+            "laptop",
+            "desktop",
+            "room",
+            "mouse",
+            "sink",
+            "standing"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001503.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 240,
+        "width": 320
+    },
+    "requestId": "6cf47b15-b2f0-4c96-b3c6-97905a0969a6"
+}

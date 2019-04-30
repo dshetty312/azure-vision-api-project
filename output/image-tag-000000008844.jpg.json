@@ -1,0 +1,65 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "A18B2A",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Yellow",
+        "dominantColors": [
+            "Brown",
+            "Yellow"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8091811407053002,
+                "text": "a person standing in front of a banana"
+            }
+        ],
+        "tags": [
+            "banana",
+            "table",
+            "person",
+            "front",
+            "man",
+            "standing",
+            "food",
+            "yellow",
+            "display",
+            "fruit",
+            "holding",
+            "pile",
+            "woman",
+            "bunch",
+            "sale",
+            "counter",
+            "flower",
+            "large",
+            "people",
+            "store",
+            "plate",
+            "fries"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000008844.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 426,
+        "width": 640
+    },
+    "requestId": "62068e8c-9f9d-4c35-8447-e57b8dd9340c"
+}

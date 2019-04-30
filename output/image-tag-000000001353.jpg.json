@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "B96504",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Brown",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.41147637814637467,
+                "text": "a man and a woman sitting on the floor"
+            }
+        ],
+        "tags": [
+            "floor",
+            "indoor",
+            "person",
+            "sitting",
+            "child",
+            "small",
+            "man",
+            "table",
+            "red",
+            "woman",
+            "standing",
+            "little",
+            "young",
+            "holding",
+            "front",
+            "boy",
+            "kitchen",
+            "suitcase",
+            "black",
+            "room",
+            "luggage",
+            "girl",
+            "cat",
+            "laptop",
+            "playing",
+            "living"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001353.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 500,
+        "width": 375
+    },
+    "requestId": "0b9c7540-8cc9-4335-ad9f-2ee88093bfc0"
+}

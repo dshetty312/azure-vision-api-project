@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_many",
+            "score": 0.82421875
+        }
+    ],
+    "color": {
+        "accentColor": "C9BA02",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey",
+            "Brown"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9839787750131409,
+                "text": "a group of people standing next to a man in a suit and tie"
+            }
+        ],
+        "tags": [
+            "person",
+            "man",
+            "indoor",
+            "ceiling",
+            "standing",
+            "people",
+            "suit",
+            "group",
+            "holding",
+            "table",
+            "woman",
+            "room",
+            "talking",
+            "dressed",
+            "wine",
+            "young"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000004134.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 425,
+        "width": 640
+    },
+    "requestId": "ad99ade4-496b-4bc8-9205-4ca1fb30b756"
+}

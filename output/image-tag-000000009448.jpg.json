@@ -1,0 +1,73 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_",
+            "score": 0.875
+        }
+    ],
+    "color": {
+        "accentColor": "0363C1",
+        "dominantColorBackground": "Blue",
+        "dominantColorForeground": "Blue",
+        "dominantColors": [
+            "Blue"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8743172342594979,
+                "text": "a little girl holding a blue umbrella"
+            }
+        ],
+        "tags": [
+            "person",
+            "umbrella",
+            "outdoor",
+            "accessory",
+            "little",
+            "holding",
+            "young",
+            "girl",
+            "child",
+            "standing",
+            "small",
+            "blue",
+            "wearing",
+            "posing",
+            "red",
+            "rain",
+            "smiling",
+            "boy",
+            "pink",
+            "colorful",
+            "water",
+            "riding",
+            "yellow",
+            "bat",
+            "white",
+            "hat",
+            "large",
+            "kite",
+            "baseball",
+            "field",
+            "ball",
+            "street",
+            "purple",
+            "skiing",
+            "swinging"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000009448.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 551
+    },
+    "requestId": "b42195d4-0eb4-4a5e-afc0-1be806e72d5f"
+}

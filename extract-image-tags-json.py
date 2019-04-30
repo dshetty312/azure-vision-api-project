@@ -1,4 +1,6 @@
+#Created by - Dikshith S shetty
 import requests
+import time
 # If you are using a Jupyter notebook, uncomment the following line.
 #%matplotlib inline
 #import matplotlib.pyplot as plt
@@ -27,18 +29,23 @@ headers    = {'Ocp-Apim-Subscription-Key': subscription_key,
 params     = {'visualFeatures': 'Categories,Description,Color'}
 
 files=glob.glob("/home/azureuser/dikshith/input/*.jpg")
-print("Number of images processed:10")
+print("Number of images processed:%d"%(len(files)))
+counter=0#batch size of 20 calls per minute
 for i in files:
+    counter+=1
+    if counter % 20 == 0:
+        time.sleep(60)
+
     image_data = open(i, "rb").read()
     response = requests.post(analyze_url, headers=headers, params=params, data=image_data)
     response.raise_for_status()
     analysis = response.json()
     out=json.dumps(analysis)
+
     data = json.loads(out) #data becomes a dictionary
-    data['image_path'] = "https://cumulusstoragetest.file.core.windows.net/input/"+i.split("/")[5]
+    data['image_path'] = "https://cumulusstoragetest.blob.core.windows.net/input/"+i.split("/")[5]
     filepath="/home/azureuser/dikshith/json-input/" +"image-tag-"+i.split("/")[5]
     print(filepath+".json")
     with open('%s.json' % filepath,'w') as f:
         f.write(json.dumps(data, sort_keys=True, indent=4, separators=(',', ': ')))
-
 print("Json output at location:/home/azureuser/dikshith/json-input")

@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "407B8B",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7586091923154048,
+                "text": "a little girl standing in a living room playing a video game"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "floor",
+            "person",
+            "ceiling",
+            "room",
+            "living",
+            "playing",
+            "girl",
+            "child",
+            "young",
+            "little",
+            "standing",
+            "table",
+            "video",
+            "holding",
+            "sitting",
+            "game",
+            "front",
+            "wii",
+            "woman",
+            "boy",
+            "man",
+            "remote"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000003934.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 500,
+        "width": 375
+    },
+    "requestId": "940e4c80-e88a-4570-a5ff-9c28c0f55a95"
+}

@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "name": "trans_trainstation",
+            "score": 0.9375
+        }
+    ],
+    "color": {
+        "accentColor": "437088",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9109705388760215,
+                "text": "a blue and white bus traveling down a train track"
+            }
+        ],
+        "tags": [
+            "transport",
+            "outdoor",
+            "train",
+            "road",
+            "bus",
+            "track",
+            "white",
+            "blue",
+            "street",
+            "traveling",
+            "passenger",
+            "driving",
+            "green",
+            "side",
+            "pulling",
+            "city",
+            "stop",
+            "riding",
+            "man",
+            "parked",
+            "red",
+            "station"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006040.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 351,
+        "width": 640
+    },
+    "requestId": "26e878de-6b59-48cb-8198-eb134558b898"
+}

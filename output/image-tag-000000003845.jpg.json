@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "name": "food_",
+            "score": 0.90234375
+        }
+    ],
+    "color": {
+        "accentColor": "B64410",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.983097927146317,
+                "text": "a plate of food on a table"
+            }
+        ],
+        "tags": [
+            "table",
+            "plate",
+            "food",
+            "indoor",
+            "sitting",
+            "cup",
+            "wooden",
+            "meat",
+            "rice",
+            "glass",
+            "dinner",
+            "white",
+            "full",
+            "topped",
+            "eaten",
+            "orange",
+            "filled",
+            "fork",
+            "bowl",
+            "dish",
+            "broccoli"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000003845.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 375,
+        "width": 500
+    },
+    "requestId": "2f516978-f8c1-4244-90d4-a696612d1c07"
+}

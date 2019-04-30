@@ -1,0 +1,55 @@
+{
+    "categories": [
+        {
+            "name": "food_",
+            "score": 0.8359375
+        }
+    ],
+    "color": {
+        "accentColor": "BC420F",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Orange",
+        "dominantColors": [
+            "Grey",
+            "Black",
+            "Orange"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9263031001525407,
+                "text": "a plate of food on a table"
+            }
+        ],
+        "tags": [
+            "food",
+            "table",
+            "indoor",
+            "plate",
+            "sitting",
+            "desk",
+            "keyboard",
+            "small",
+            "computer",
+            "counter",
+            "fruit",
+            "filled",
+            "black",
+            "bowl",
+            "white",
+            "meat",
+            "mouse",
+            "kitchen"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007991.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 359,
+        "width": 640
+    },
+    "requestId": "ea029fbb-8723-4c8d-b3e1-f840bee21d00"
+}

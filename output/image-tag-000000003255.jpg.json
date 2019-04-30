@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_mountain",
+            "score": 0.96875
+        }
+    ],
+    "color": {
+        "accentColor": "20508C",
+        "dominantColorBackground": "Blue",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey",
+            "Blue"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9616986434946654,
+                "text": "a snow covered mountain"
+            }
+        ],
+        "tags": [
+            "snow",
+            "outdoor",
+            "nature",
+            "skiing",
+            "mountain",
+            "covered",
+            "man",
+            "slope",
+            "side",
+            "riding",
+            "standing",
+            "hill",
+            "people",
+            "jumping",
+            "wearing",
+            "group",
+            "air"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000003255.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 363,
+        "width": 640
+    },
+    "requestId": "73b1dd14-a19b-47ba-963b-01b57b72e707"
+}

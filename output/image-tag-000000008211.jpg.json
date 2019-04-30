@@ -1,0 +1,65 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.01953125
+        }
+    ],
+    "color": {
+        "accentColor": "1984B2",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.4069448270973119,
+                "text": "a person riding a motorcycle on a city street"
+            }
+        ],
+        "tags": [
+            "building",
+            "road",
+            "outdoor",
+            "street",
+            "man",
+            "front",
+            "parked",
+            "woman",
+            "sitting",
+            "standing",
+            "walking",
+            "sidewalk",
+            "young",
+            "holding",
+            "motorcycle",
+            "city",
+            "parking",
+            "board",
+            "riding",
+            "people",
+            "group",
+            "hydrant",
+            "doing"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000008211.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 459,
+        "width": 640
+    },
+    "requestId": "4aed7d71-633c-4281-9693-f47e6aeaf199"
+}

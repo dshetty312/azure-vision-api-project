@@ -1,0 +1,55 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0546875
+        }
+    ],
+    "color": {
+        "accentColor": "666666",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": true,
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8274574464809191,
+                "text": "a close up of a restroom"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "thing",
+            "object",
+            "seat",
+            "white",
+            "small",
+            "sitting",
+            "paper",
+            "stall",
+            "black",
+            "bowl",
+            "dirty",
+            "room",
+            "mirror",
+            "view",
+            "restroom",
+            "sink",
+            "man",
+            "standing"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000005503.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 500,
+        "width": 333
+    },
+    "requestId": "2d061fbf-8619-497a-923a-0027189e31d9"
+}

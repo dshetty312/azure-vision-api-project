@@ -1,0 +1,65 @@
+{
+    "categories": [
+        {
+            "name": "indoor_court",
+            "score": 0.96875
+        }
+    ],
+    "color": {
+        "accentColor": "BB6810",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.916210338311304,
+                "text": "a crowd of people watching a person on a court with a racquet"
+            }
+        ],
+        "tags": [
+            "game",
+            "sport",
+            "road",
+            "court",
+            "ball",
+            "man",
+            "player",
+            "holding",
+            "playing",
+            "racket",
+            "standing",
+            "watching",
+            "large",
+            "front",
+            "orange",
+            "yellow",
+            "swinging",
+            "water",
+            "woman",
+            "match",
+            "people",
+            "crowd",
+            "table",
+            "young",
+            "walking",
+            "blue",
+            "white",
+            "air",
+            "board",
+            "sign"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000005586.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 240,
+        "width": 320
+    },
+    "requestId": "319c1adb-6ab8-4328-b700-f4487d9fe370"
+}

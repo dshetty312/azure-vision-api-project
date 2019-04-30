@@ -1,0 +1,71 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "celebrities": [
+                    {
+                        "confidence": 0.7537253499031067,
+                        "faceRectangle": {
+                            "height": 76,
+                            "left": 197,
+                            "top": 163,
+                            "width": 76
+                        },
+                        "name": "Zahra Newman"
+                    }
+                ]
+            },
+            "name": "people_group",
+            "score": 0.84375
+        }
+    ],
+    "color": {
+        "accentColor": "AE8F1D",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9688359503827935,
+                "text": "Zahra Newman et al. posing for the camera"
+            }
+        ],
+        "tags": [
+            "person",
+            "indoor",
+            "table",
+            "sitting",
+            "man",
+            "photo",
+            "people",
+            "posing",
+            "woman",
+            "front",
+            "food",
+            "group",
+            "standing",
+            "restaurant",
+            "beer",
+            "wine",
+            "holding",
+            "glasses",
+            "large",
+            "plate",
+            "pizza"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006763.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 500,
+        "width": 375
+    },
+    "requestId": "87302b67-20bd-4e2e-9e9f-8947c42e9703"
+}

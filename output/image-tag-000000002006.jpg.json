@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "name": "trans_bus",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "4C5D7C",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.979954739328709,
+                "text": "a blue bus driving down a city street"
+            }
+        ],
+        "tags": [
+            "road",
+            "bus",
+            "outdoor",
+            "transport",
+            "building",
+            "street",
+            "city",
+            "blue",
+            "driving",
+            "large",
+            "stop",
+            "parked",
+            "stopped",
+            "passenger",
+            "side",
+            "tall",
+            "traveling",
+            "black",
+            "riding",
+            "white",
+            "brick",
+            "red"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002006.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "18be58b6-59c5-4245-83dd-6f742526a0f6"
+}

@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "752837",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8402786230121806,
+                "text": "a little girl that is standing in the rain holding an umbrella"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "umbrella",
+            "holding",
+            "little",
+            "child",
+            "rain",
+            "young",
+            "grass",
+            "girl",
+            "building",
+            "small",
+            "boy",
+            "water",
+            "sidewalk",
+            "rainy",
+            "walking",
+            "woman",
+            "standing",
+            "street",
+            "red",
+            "pink",
+            "snow",
+            "board",
+            "blue"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007088.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 478
+    },
+    "requestId": "0af91e83-c3f1-4932-aa19-a5dc97cdbda5"
+}

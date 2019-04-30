@@ -1,0 +1,60 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "animal_cat",
+            "score": 0.7734375
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "4E5A46",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9270155118157555,
+                "text": "a cat lying on top of a laptop"
+            }
+        ],
+        "tags": [
+            "cat",
+            "black",
+            "indoor",
+            "laptop",
+            "sitting",
+            "white",
+            "laying",
+            "computer",
+            "lying",
+            "keyboard",
+            "sleeping",
+            "bed",
+            "silver",
+            "playing",
+            "standing"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001675.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "9200ba5c-8b06-452d-80ea-5647f969bbde"
+}

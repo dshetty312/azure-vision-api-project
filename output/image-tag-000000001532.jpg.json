@@ -1,0 +1,78 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.01171875
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_road",
+            "score": 0.5625
+        },
+        {
+            "name": "text_sign",
+            "score": 0.1875
+        }
+    ],
+    "color": {
+        "accentColor": "30659C",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9175045382086435,
+                "text": "a car driving down a busy highway"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "road",
+            "street",
+            "car",
+            "driving",
+            "sign",
+            "traffic",
+            "building",
+            "highway",
+            "green",
+            "busy",
+            "city",
+            "truck",
+            "traveling",
+            "light",
+            "intersection",
+            "view",
+            "bridge",
+            "bus",
+            "large",
+            "stop",
+            "group",
+            "standing",
+            "white",
+            "tall"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001532.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "ad8b304b-fdda-4c36-b281-e1c9330c6f88"
+}

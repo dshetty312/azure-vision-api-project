@@ -1,0 +1,51 @@
+{
+    "categories": [],
+    "color": {
+        "accentColor": "376F94",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.948291961674745,
+                "text": "a close up of a baby elephant standing in the dirt"
+            }
+        ],
+        "tags": [
+            "elephant",
+            "animal",
+            "outdoor",
+            "mammal",
+            "standing",
+            "dirt",
+            "grass",
+            "walking",
+            "path",
+            "small",
+            "baby",
+            "area",
+            "close",
+            "field",
+            "brown",
+            "large",
+            "horse",
+            "water",
+            "herd",
+            "group"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007108.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 426,
+        "width": 640
+    },
+    "requestId": "eb470f9f-16b9-4ecb-b251-20950098e8bf"
+}

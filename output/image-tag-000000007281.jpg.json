@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_oceanbeach",
+            "score": 0.8125
+        }
+    ],
+    "color": {
+        "accentColor": "3E6B8D",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9892181478888545,
+                "text": "a group of people riding horses on a beach"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "beach",
+            "water",
+            "people",
+            "dog",
+            "man",
+            "ocean",
+            "sandy",
+            "riding",
+            "woman",
+            "sand",
+            "cow",
+            "walking",
+            "brown",
+            "group",
+            "horse",
+            "holding",
+            "playing",
+            "carrying",
+            "cattle",
+            "umbrella",
+            "flying",
+            "herd",
+            "standing",
+            "game"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007281.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 361,
+        "width": 640
+    },
+    "requestId": "067729ba-b5dd-44d4-9483-834e537801ff"
+}

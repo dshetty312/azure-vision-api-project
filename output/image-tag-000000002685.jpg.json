@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0234375
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "A68C25",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Brown",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9330843121626536,
+                "text": "a group of people standing in a room"
+            }
+        ],
+        "tags": [
+            "person",
+            "indoor",
+            "man",
+            "people",
+            "table",
+            "woman",
+            "building",
+            "group",
+            "food",
+            "kitchen",
+            "standing",
+            "holding",
+            "room",
+            "sitting",
+            "living",
+            "wine",
+            "playing",
+            "luggage",
+            "plate"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002685.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 555,
+        "width": 640
+    },
+    "requestId": "5391c172-bf09-414c-bb09-98c52b861d88"
+}

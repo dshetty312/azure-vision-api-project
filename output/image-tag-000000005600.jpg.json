@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "name": "food_",
+            "score": 0.74609375
+        }
+    ],
+    "color": {
+        "accentColor": "B14F03",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Black",
+            "Brown"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8333522055145761,
+                "text": "a bowl of oranges on a table"
+            }
+        ],
+        "tags": [
+            "table",
+            "food",
+            "bowl",
+            "indoor",
+            "plate",
+            "filled",
+            "sitting",
+            "cup",
+            "full",
+            "wooden",
+            "banana",
+            "different",
+            "oranges",
+            "glass",
+            "fruit",
+            "holding"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000005600.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 361,
+        "width": 640
+    },
+    "requestId": "125ef4df-a002-4d57-998f-7ae29bb91161"
+}

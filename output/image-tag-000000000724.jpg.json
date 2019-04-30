@@ -1,0 +1,51 @@
+{
+    "categories": [
+        {
+            "name": "text_sign",
+            "score": 0.96484375
+        }
+    ],
+    "color": {
+        "accentColor": "1251B9",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9607712941176375,
+                "text": "a red stop sign sitting on the side of a road"
+            }
+        ],
+        "tags": [
+            "sign",
+            "stop",
+            "outdoor",
+            "road",
+            "street",
+            "corner",
+            "intersection",
+            "grass",
+            "pole",
+            "sitting",
+            "side",
+            "red",
+            "traffic",
+            "city",
+            "standing"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000000724.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 500,
+        "width": 375
+    },
+    "requestId": "4f87e8db-034b-4b65-a904-c8edb8663304"
+}

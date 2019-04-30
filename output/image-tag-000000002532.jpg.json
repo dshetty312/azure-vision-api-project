@@ -1,0 +1,60 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_mountain",
+            "score": 0.890625
+        }
+    ],
+    "color": {
+        "accentColor": "144475",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Blue"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9474408883216838,
+                "text": "a person riding skis down a snow covered slope"
+            }
+        ],
+        "tags": [
+            "snow",
+            "outdoor",
+            "skiing",
+            "person",
+            "nature",
+            "slope",
+            "man",
+            "covered",
+            "hill",
+            "mountain",
+            "jacket",
+            "wearing",
+            "woman",
+            "riding",
+            "sunny",
+            "standing",
+            "day",
+            "black",
+            "people",
+            "holding",
+            "board"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002532.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 480
+    },
+    "requestId": "b99e9727-05bd-49dc-8b68-ff28de641c81"
+}

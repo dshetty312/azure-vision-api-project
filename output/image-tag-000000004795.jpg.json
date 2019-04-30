@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.046875
+        }
+    ],
+    "color": {
+        "accentColor": "AE611D",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9437301523901066,
+                "text": "a cat sitting on the keyboard of a laptop computer"
+            }
+        ],
+        "tags": [
+            "cat",
+            "indoor",
+            "computer",
+            "sitting",
+            "laptop",
+            "keyboard",
+            "desk",
+            "front",
+            "table",
+            "laying",
+            "black",
+            "white",
+            "grey",
+            "mouse",
+            "monitor",
+            "standing"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000004795.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "bea893f8-a4a0-42ac-afc7-a8ac72d95f9c"
+}

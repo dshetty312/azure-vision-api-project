@@ -1,0 +1,61 @@
+{
+    "categories": [
+        {
+            "name": "trans_bus",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "937D38",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9771289087079723,
+                "text": "a bus that is parked on the side of a road"
+            }
+        ],
+        "tags": [
+            "road",
+            "outdoor",
+            "bus",
+            "transport",
+            "street",
+            "city",
+            "large",
+            "driving",
+            "sitting",
+            "stop",
+            "black",
+            "parked",
+            "side",
+            "sidewalk",
+            "standing",
+            "man",
+            "tall",
+            "red",
+            "white",
+            "parking",
+            "riding",
+            "people",
+            "blue",
+            "station"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000005037.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 425,
+        "width": 640
+    },
+    "requestId": "fd69ad7a-e325-49e9-a68f-1bd8c9bc6c0d"
+}

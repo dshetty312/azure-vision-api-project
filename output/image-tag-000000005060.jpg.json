@@ -1,0 +1,60 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "abstract_rect",
+            "score": 0.26953125
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "684022",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Brown"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7688462904290985,
+                "text": "a man sitting in front of a mirror posing for the camera"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "person",
+            "man",
+            "building",
+            "floor",
+            "mirror",
+            "sitting",
+            "room",
+            "front",
+            "woman",
+            "using",
+            "holding",
+            "living",
+            "table",
+            "young",
+            "standing",
+            "phone"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000005060.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 480
+    },
+    "requestId": "ceb0f772-47b7-4bb2-8587-889f1782c0cc"
+}

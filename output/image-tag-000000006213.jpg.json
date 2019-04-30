@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "name": "indoor_doorwindows",
+            "score": 0.5390625
+        },
+        {
+            "name": "indoor_room",
+            "score": 0.44140625
+        }
+    ],
+    "color": {
+        "accentColor": "3A160E",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9167089991805469,
+                "text": "a large white tub sitting next to a shower"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "cabinet",
+            "mirror",
+            "shower",
+            "window",
+            "room",
+            "white",
+            "small",
+            "sink",
+            "sitting",
+            "tub",
+            "bedroom",
+            "red",
+            "tile",
+            "brown",
+            "large",
+            "vanity",
+            "bed",
+            "door",
+            "table",
+            "wooden",
+            "tiled"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006213.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 425,
+        "width": 640
+    },
+    "requestId": "6bda3c8e-2080-4b41-9d7a-cb1df44a1480"
+}

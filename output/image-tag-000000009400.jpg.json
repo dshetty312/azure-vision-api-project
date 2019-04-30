@@ -1,0 +1,55 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_many",
+            "score": 0.82421875
+        }
+    ],
+    "color": {
+        "accentColor": "328599",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Black",
+            "Brown"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9843936206688846,
+                "text": "a group of people sitting at a table using a laptop computer"
+            }
+        ],
+        "tags": [
+            "laptop",
+            "person",
+            "indoor",
+            "sitting",
+            "people",
+            "computer",
+            "table",
+            "group",
+            "man",
+            "looking",
+            "woman",
+            "front",
+            "room",
+            "using",
+            "young",
+            "playing"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000009400.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "4889208a-1a63-4918-8c73-b2b1b325b9fd"
+}

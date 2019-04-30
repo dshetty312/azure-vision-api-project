@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.19140625
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "666666",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBWImg": true,
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7697133509536969,
+                "text": "a clock that is on a pole"
+            }
+        ],
+        "tags": [
+            "clock",
+            "outdoor",
+            "thing",
+            "black",
+            "sitting",
+            "looking",
+            "front",
+            "sign",
+            "standing",
+            "large",
+            "man",
+            "pole",
+            "white",
+            "stop",
+            "post",
+            "tower",
+            "tall",
+            "cloudy",
+            "street"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007888.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 638
+    },
+    "requestId": "d096b8f9-b3d6-4def-8188-280e2e4ad058"
+}

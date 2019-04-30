@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_field",
+            "score": 0.359375
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_grass",
+            "score": 0.53125
+        }
+    ],
+    "color": {
+        "accentColor": "5C5125",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9138422308481344,
+                "text": "a large green field"
+            }
+        ],
+        "tags": [
+            "grass",
+            "outdoor",
+            "field",
+            "building",
+            "grassy",
+            "green",
+            "large",
+            "standing",
+            "open",
+            "cloudy",
+            "man",
+            "water",
+            "street",
+            "grazing",
+            "sign",
+            "tall",
+            "boat",
+            "group",
+            "blue",
+            "airplane",
+            "white",
+            "plane",
+            "air"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002923.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 375,
+        "width": 500
+    },
+    "requestId": "d30afad7-9152-4619-8e56-dbf3b614bfb6"
+}

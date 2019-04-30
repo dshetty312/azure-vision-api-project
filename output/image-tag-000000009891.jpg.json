@@ -1,0 +1,67 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.01171875
+        }
+    ],
+    "color": {
+        "accentColor": "7B5950",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9012324600654842,
+                "text": "a man standing in front of a car"
+            }
+        ],
+        "tags": [
+            "person",
+            "man",
+            "building",
+            "car",
+            "standing",
+            "holding",
+            "front",
+            "truck",
+            "sitting",
+            "luggage",
+            "small",
+            "woman",
+            "wearing",
+            "plane",
+            "dog",
+            "parked",
+            "young",
+            "board",
+            "people",
+            "airplane",
+            "group",
+            "white",
+            "room"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000009891.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "25632f30-7b9d-480a-a073-1e66883172e4"
+}

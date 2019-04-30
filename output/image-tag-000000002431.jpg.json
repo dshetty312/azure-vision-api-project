@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "name": "food_",
+            "score": 0.67578125
+        }
+    ],
+    "color": {
+        "accentColor": "64483B",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8740370974436791,
+                "text": "a plate of food and a cup of coffee on a table"
+            }
+        ],
+        "tags": [
+            "table",
+            "cup",
+            "food",
+            "coffee",
+            "plate",
+            "indoor",
+            "sitting",
+            "wooden",
+            "topped",
+            "filled",
+            "bread",
+            "chocolate",
+            "sandwich",
+            "white",
+            "desk",
+            "cake"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002431.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 457
+    },
+    "requestId": "d958ce21-fa7f-4dcc-b3af-44f39e020693"
+}

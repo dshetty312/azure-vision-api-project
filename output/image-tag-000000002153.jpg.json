@@ -1,0 +1,64 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_sportsfield",
+            "score": 0.63671875
+        }
+    ],
+    "color": {
+        "accentColor": "425389",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8778463399110482,
+                "text": "a baseball player swinging a bat at a ball"
+            }
+        ],
+        "tags": [
+            "baseball",
+            "outdoor",
+            "game",
+            "fence",
+            "sport",
+            "ball",
+            "player",
+            "grass",
+            "swinging",
+            "batter",
+            "hitting",
+            "bat",
+            "field",
+            "pitcher",
+            "man",
+            "throwing",
+            "pitch",
+            "group",
+            "stop",
+            "playing",
+            "standing",
+            "holding",
+            "catcher",
+            "plate",
+            "umpire",
+            "people"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002153.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "844f516d-9d00-4767-a91e-d3993599b0d6"
+}

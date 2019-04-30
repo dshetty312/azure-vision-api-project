@@ -1,0 +1,59 @@
+{
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.27734375
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "C6B605",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Yellow",
+        "dominantColors": [
+            "Yellow"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6708833482491753,
+                "text": "a banana sitting on top of a green apple"
+            }
+        ],
+        "tags": [
+            "banana",
+            "fruit",
+            "sitting",
+            "apple",
+            "green",
+            "table",
+            "yellow",
+            "oranges",
+            "red",
+            "bowl",
+            "blue",
+            "holding",
+            "laying"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006012.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 531,
+        "width": 640
+    },
+    "requestId": "f6391de5-a7ca-46fb-b18f-56bf66cde792"
+}

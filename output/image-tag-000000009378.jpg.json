@@ -1,0 +1,72 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        },
+        {
+            "name": "people_",
+            "score": 0.421875
+        },
+        {
+            "name": "people_show",
+            "score": 0.32421875
+        }
+    ],
+    "color": {
+        "accentColor": "A0A526",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5041261803946021,
+                "text": "a man holding a frisbee"
+            }
+        ],
+        "tags": [
+            "person",
+            "indoor",
+            "man",
+            "holding",
+            "frisbee",
+            "wearing",
+            "green",
+            "yellow",
+            "shirt",
+            "hat",
+            "black",
+            "head",
+            "young",
+            "large",
+            "playing",
+            "doing",
+            "baseball",
+            "food",
+            "standing",
+            "white",
+            "ball",
+            "air"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000009378.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 400,
+        "width": 600
+    },
+    "requestId": "e64d017b-8b44-4db4-afd8-d0fef0fdc720"
+}

@@ -1,0 +1,61 @@
+{
+    "categories": [
+        {
+            "name": "indoor_room",
+            "score": 0.45703125
+        },
+        {
+            "name": "indoor_venue",
+            "score": 0.4375
+        }
+    ],
+    "color": {
+        "accentColor": "6C3E05",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown",
+            "Yellow"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8834997836469454,
+                "text": "a kitchen with a sink and a mirror"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "ceiling",
+            "table",
+            "sink",
+            "mirror",
+            "counter",
+            "photo",
+            "large",
+            "light",
+            "long",
+            "small",
+            "kitchen",
+            "room",
+            "floor",
+            "man",
+            "white",
+            "lit",
+            "standing",
+            "double",
+            "shower",
+            "tub"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000009772.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 550
+    },
+    "requestId": "299c5cea-531d-4bdc-84b6-5a3636c09426"
+}

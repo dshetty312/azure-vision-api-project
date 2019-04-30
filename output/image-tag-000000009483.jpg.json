@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "name": "object_screen",
+            "score": 0.83984375
+        }
+    ],
+    "color": {
+        "accentColor": "836B48",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9383843915248415,
+                "text": "a man standing in front of a computer"
+            }
+        ],
+        "tags": [
+            "man",
+            "person",
+            "indoor",
+            "table",
+            "standing",
+            "holding",
+            "computer",
+            "desk",
+            "front",
+            "room",
+            "black",
+            "office",
+            "suit",
+            "hand",
+            "laptop",
+            "phone",
+            "keyboard",
+            "young"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000009483.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "1d82ab2a-6e09-4503-b46e-a01fb95d4f35"
+}

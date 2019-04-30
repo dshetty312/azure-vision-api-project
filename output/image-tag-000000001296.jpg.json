@@ -1,0 +1,67 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_",
+            "score": 0.40234375
+        },
+        {
+            "detail": {
+                "celebrities": []
+            },
+            "name": "people_group",
+            "score": 0.20703125
+        }
+    ],
+    "color": {
+        "accentColor": "495082",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6065333937981773,
+                "text": "a woman talking on a cell phone"
+            }
+        ],
+        "tags": [
+            "person",
+            "phone",
+            "outdoor",
+            "cellphone",
+            "woman",
+            "table",
+            "holding",
+            "sitting",
+            "food",
+            "looking",
+            "young",
+            "using",
+            "white",
+            "talking",
+            "people",
+            "girl",
+            "man",
+            "standing",
+            "restaurant",
+            "crowd",
+            "street"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001296.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 427
+    },
+    "requestId": "fecd4da7-1e3d-4fb2-b74c-24992df837e1"
+}

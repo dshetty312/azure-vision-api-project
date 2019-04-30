@@ -1,0 +1,59 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "plant_leaves",
+            "score": 0.43359375
+        }
+    ],
+    "color": {
+        "accentColor": "1C1903",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Yellow",
+        "dominantColors": [
+            "Black",
+            "Yellow"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8675924385000603,
+                "text": "a green apple next to a bowl of fruit"
+            }
+        ],
+        "tags": [
+            "apple",
+            "green",
+            "indoor",
+            "bowl",
+            "fruit",
+            "sitting",
+            "banana",
+            "food",
+            "filled",
+            "table",
+            "plate",
+            "oranges",
+            "full",
+            "counter",
+            "wooden",
+            "black",
+            "steel",
+            "white",
+            "red"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002149.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "c6a05dc4-796a-4541-abbb-373e0c1f4934"
+}

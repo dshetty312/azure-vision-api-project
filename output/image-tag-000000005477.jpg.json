@@ -1,0 +1,67 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.01953125
+        }
+    ],
+    "color": {
+        "accentColor": "634720",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9718168534651671,
+                "text": "a large passenger jet sitting on top of a runway"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "plane",
+            "runway",
+            "aircraft",
+            "road",
+            "airplane",
+            "large",
+            "airport",
+            "transport",
+            "grass",
+            "jet",
+            "sitting",
+            "cloudy",
+            "commercial",
+            "air",
+            "parked",
+            "passenger",
+            "tarmac",
+            "blue",
+            "day",
+            "yellow",
+            "flying",
+            "white",
+            "gold",
+            "landing"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000005477.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 349,
+        "width": 640
+    },
+    "requestId": "fab304c9-5221-4653-90e5-795dbc181630"
+}

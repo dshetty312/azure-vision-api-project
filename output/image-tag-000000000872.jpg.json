@@ -1,0 +1,55 @@
+{
+    "categories": [],
+    "color": {
+        "accentColor": "406B32",
+        "dominantColorBackground": "Green",
+        "dominantColorForeground": "Green",
+        "dominantColors": [
+            "Green",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9476616434632289,
+                "text": "a baseball player is getting ready to hit the ball"
+            }
+        ],
+        "tags": [
+            "baseball",
+            "outdoor",
+            "game",
+            "grass",
+            "sport",
+            "person",
+            "player",
+            "ball",
+            "playing",
+            "field",
+            "standing",
+            "ready",
+            "holding",
+            "man",
+            "base",
+            "batter",
+            "plate",
+            "pitch",
+            "home",
+            "bat",
+            "swinging",
+            "catcher",
+            "pitcher",
+            "catch"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000000872.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 621
+    },
+    "requestId": "96df0078-df31-40d3-96f4-abc507695cb5"
+}

@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_oceanbeach",
+            "score": 0.58984375
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_waterside",
+            "score": 0.30859375
+        }
+    ],
+    "color": {
+        "accentColor": "1655B5",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9553681355976702,
+                "text": "a person flying a kite on the beach"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "beach",
+            "kite",
+            "flying",
+            "man",
+            "water",
+            "people",
+            "sand",
+            "playing",
+            "young",
+            "woman",
+            "boy",
+            "day",
+            "sandy",
+            "sunny",
+            "standing",
+            "park",
+            "field",
+            "group",
+            "ocean",
+            "walking",
+            "holding",
+            "riding"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007511.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "1c1200d8-dbcb-42bd-8381-ec9fc71e7576"
+}

@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "name": "food_bread",
+            "score": 0.80859375
+        }
+    ],
+    "color": {
+        "accentColor": "733F19",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8965316361276922,
+                "text": "a large brown teddy bear sitting on top of a pile of stuffed animals"
+            }
+        ],
+        "tags": [
+            "bear",
+            "teddy",
+            "indoor",
+            "brown",
+            "stuffed",
+            "sitting",
+            "bed",
+            "large",
+            "holding",
+            "lying",
+            "table",
+            "little",
+            "pile",
+            "food",
+            "light",
+            "baby",
+            "blue",
+            "group",
+            "sleeping",
+            "laying",
+            "white"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000000776.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 428
+    },
+    "requestId": "b10855aa-cc3f-4187-9ec5-0d54aaf1dc09"
+}

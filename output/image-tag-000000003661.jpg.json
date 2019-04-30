@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "6B4A13",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Yellow",
+        "dominantColors": [
+            "Yellow"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7321500249386855,
+                "text": "a banana sitting on top of a wooden table"
+            }
+        ],
+        "tags": [
+            "banana",
+            "indoor",
+            "table",
+            "fruit",
+            "sitting",
+            "wooden",
+            "desk",
+            "kitchen",
+            "front",
+            "background",
+            "counter",
+            "bunch",
+            "close",
+            "brown",
+            "bowl",
+            "apple",
+            "oranges",
+            "plate"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000003661.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 384,
+        "width": 640
+    },
+    "requestId": "99a21eaf-056d-4e55-a278-9ec1e7f68b52"
+}

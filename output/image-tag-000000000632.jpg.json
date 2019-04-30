@@ -1,0 +1,60 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.0078125
+        },
+        {
+            "name": "indoor_",
+            "score": 0.5625
+        }
+    ],
+    "color": {
+        "accentColor": "264468",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8737227500325582,
+                "text": "a bed with a book shelf"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "room",
+            "shelf",
+            "book",
+            "bed",
+            "window",
+            "sitting",
+            "bedroom",
+            "small",
+            "living",
+            "green",
+            "table",
+            "computer",
+            "blue",
+            "old",
+            "television",
+            "large",
+            "desk",
+            "wooden",
+            "white"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000000632.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 483,
+        "width": 640
+    },
+    "requestId": "9497ef3e-fb2d-4af2-accd-1156306cbde5"
+}

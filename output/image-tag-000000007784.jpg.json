@@ -1,0 +1,56 @@
+{
+    "categories": [
+        {
+            "name": "sky_object",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "B92912",
+        "dominantColorBackground": "Blue",
+        "dominantColorForeground": "Blue",
+        "dominantColors": [
+            "Blue"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6180207195906848,
+                "text": "a blue and white kite flying high in the air"
+            }
+        ],
+        "tags": [
+            "object",
+            "outdoor",
+            "kite",
+            "flying",
+            "blue",
+            "air",
+            "colorful",
+            "large",
+            "orange",
+            "plane",
+            "high",
+            "clear",
+            "white",
+            "red",
+            "man",
+            "airplane",
+            "holding",
+            "group",
+            "standing",
+            "people",
+            "beach"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007784.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 375,
+        "width": 500
+    },
+    "requestId": "ad8d6653-f8aa-474c-b415-05e6db075e04"
+}

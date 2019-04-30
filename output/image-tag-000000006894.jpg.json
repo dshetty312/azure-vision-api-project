@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.01953125
+        },
+        {
+            "name": "people_",
+            "score": 0.6484375
+        }
+    ],
+    "color": {
+        "accentColor": "4C6E7F",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7657936354126321,
+                "text": "a large elephant standing on top of a mountain"
+            }
+        ],
+        "tags": [
+            "mountain",
+            "outdoor",
+            "man",
+            "elephant",
+            "person",
+            "animal",
+            "standing",
+            "holding",
+            "large",
+            "horse",
+            "wearing",
+            "posing",
+            "hat",
+            "trunk",
+            "smiling",
+            "head",
+            "white",
+            "phone"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006894.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "09b0011e-238a-4710-8f3c-8377832de2d1"
+}

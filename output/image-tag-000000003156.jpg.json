@@ -1,0 +1,55 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.6796875
+        }
+    ],
+    "color": {
+        "accentColor": "666666",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Black",
+            "Grey",
+            "White"
+        ],
+        "isBWImg": true,
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.894721038823663,
+                "text": "a man sitting in a room"
+            }
+        ],
+        "tags": [
+            "person",
+            "indoor",
+            "object",
+            "man",
+            "sitting",
+            "black",
+            "white",
+            "looking",
+            "woman",
+            "food",
+            "holding",
+            "table",
+            "standing",
+            "kitchen",
+            "young",
+            "room",
+            "people",
+            "bed"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000003156.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 443
+    },
+    "requestId": "75ddfa96-09d2-47b9-a1fe-4c0e0b15199d"
+}

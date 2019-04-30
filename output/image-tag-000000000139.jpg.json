@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "name": "indoor_room",
+            "score": 0.7890625
+        }
+    ],
+    "color": {
+        "accentColor": "7F392D",
+        "dominantColorBackground": "Yellow",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown",
+            "Yellow",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8382296941126809,
+                "text": "a living room filled with furniture and a flat screen tv"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "floor",
+            "room",
+            "ceiling",
+            "living",
+            "table",
+            "building",
+            "wood",
+            "hard",
+            "furniture",
+            "sitting",
+            "television",
+            "area",
+            "flat",
+            "filled",
+            "yellow",
+            "large",
+            "fire",
+            "woman",
+            "screen",
+            "bedroom",
+            "standing",
+            "playing",
+            "wooden",
+            "young",
+            "man",
+            "red",
+            "white",
+            "kitchen"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000000139.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 426,
+        "width": 640
+    },
+    "requestId": "c0d89842-d5e8-4eac-b041-1f1c6b0be575"
+}

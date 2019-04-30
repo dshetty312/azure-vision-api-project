@@ -1,0 +1,77 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.01171875
+        },
+        {
+            "name": "text_sign",
+            "score": 0.125
+        }
+    ],
+    "color": {
+        "accentColor": "190707",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8382654626120327,
+                "text": "a man standing in front of a television screen"
+            }
+        ],
+        "tags": [
+            "person",
+            "man",
+            "indoor",
+            "monitor",
+            "television",
+            "front",
+            "screen",
+            "looking",
+            "standing",
+            "woman",
+            "watching",
+            "video",
+            "holding",
+            "room",
+            "computer",
+            "large",
+            "mirror",
+            "table",
+            "people",
+            "playing",
+            "wearing",
+            "game",
+            "food",
+            "talking",
+            "red",
+            "wii",
+            "white",
+            "blue",
+            "phone",
+            "group",
+            "remote"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000008021.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "b6d6d1a1-3c35-4bec-bd20-cfbc5ebc343e"
+}

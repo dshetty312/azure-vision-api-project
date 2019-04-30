@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "name": "indoor_doorwindows",
+            "score": 0.9921875
+        }
+    ],
+    "color": {
+        "accentColor": "60442E",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Brown"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.906865014245705,
+                "text": "a white refrigerator freezer sitting inside of a kitchen"
+            }
+        ],
+        "tags": [
+            "cabinet",
+            "indoor",
+            "kitchen",
+            "refrigerator",
+            "white",
+            "sink",
+            "stove",
+            "oven",
+            "sitting",
+            "counter",
+            "small",
+            "tile",
+            "microwave",
+            "door",
+            "black",
+            "room"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000000802.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 424
+    },
+    "requestId": "db94bf24-588b-4129-bd0a-374fab42e0bc"
+}

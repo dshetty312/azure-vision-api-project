@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "name": "animal_",
+            "score": 0.8984375
+        }
+    ],
+    "color": {
+        "accentColor": "7F8645",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Black",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8916752557387699,
+                "text": "a herd of sheep standing on top of a building"
+            }
+        ],
+        "tags": [
+            "sheep",
+            "grass",
+            "animal",
+            "mammal",
+            "building",
+            "standing",
+            "outdoor",
+            "field",
+            "pen",
+            "herd",
+            "black",
+            "front",
+            "small",
+            "green",
+            "looking",
+            "area",
+            "fenced",
+            "camera",
+            "grazing",
+            "baby",
+            "group",
+            "enclosure",
+            "hay",
+            "white",
+            "brick",
+            "grassy",
+            "large"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000005992.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 428,
+        "width": 640
+    },
+    "requestId": "942ddf75-fa10-401d-81ca-67cf332ca2da"
+}

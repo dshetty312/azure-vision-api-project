@@ -1,0 +1,68 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.01171875
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_oceanbeach",
+            "score": 0.375
+        }
+    ],
+    "color": {
+        "accentColor": "383838",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": true,
+        "isBwImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8838578082049501,
+                "text": "a man riding a board on a body of water"
+            }
+        ],
+        "tags": [
+            "water",
+            "outdoor",
+            "man",
+            "surfing",
+            "board",
+            "sport",
+            "ocean",
+            "riding",
+            "rowing",
+            "body",
+            "wave",
+            "boat",
+            "holding",
+            "small",
+            "black",
+            "beach",
+            "standing",
+            "large",
+            "white",
+            "young",
+            "walking",
+            "skiing"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001490.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 315,
+        "width": 640
+    },
+    "requestId": "f45d4b6b-1b3c-4e0d-b31e-6af1c06d5d92"
+}

@@ -1,0 +1,73 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.14453125
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0234375
+        }
+    ],
+    "color": {
+        "accentColor": "6B6149",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Black",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8743926259085828,
+                "text": "a person walking on a bridge over a body of water"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "water",
+            "bridge",
+            "person",
+            "building",
+            "river",
+            "woman",
+            "looking",
+            "train",
+            "walking",
+            "sitting",
+            "cellphone",
+            "phone",
+            "man",
+            "pier",
+            "young",
+            "bench",
+            "city",
+            "people",
+            "body",
+            "large",
+            "boat",
+            "holding",
+            "standing",
+            "bird",
+            "track"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001268.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "ad4d7ebd-ead0-4551-be3c-efbeada2a48f"
+}

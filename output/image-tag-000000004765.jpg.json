@@ -1,0 +1,55 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "816B4A",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9501383894033157,
+                "text": "a man riding a wave on a surfboard in the water"
+            }
+        ],
+        "tags": [
+            "wave",
+            "surfing",
+            "sport",
+            "outdoor",
+            "water",
+            "riding",
+            "man",
+            "ocean",
+            "yellow",
+            "board",
+            "young",
+            "shirt",
+            "large",
+            "big",
+            "wearing",
+            "green"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000004765.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 612,
+        "width": 612
+    },
+    "requestId": "c411580b-cff5-4bac-82f1-37cd4c79a54c"
+}

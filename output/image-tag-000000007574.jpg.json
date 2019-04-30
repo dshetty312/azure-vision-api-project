@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.0078125
+        },
+        {
+            "name": "others_",
+            "score": 0.01171875
+        }
+    ],
+    "color": {
+        "accentColor": "A47527",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Grey",
+            "Brown",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8518595486320834,
+                "text": "a cluttered kitchen with stainless steel appliances"
+            }
+        ],
+        "tags": [
+            "cabinet",
+            "kitchen",
+            "indoor",
+            "refrigerator",
+            "bottle",
+            "counter",
+            "table",
+            "cluttered",
+            "sitting",
+            "wine",
+            "stainless",
+            "green",
+            "food",
+            "steel",
+            "stove",
+            "white",
+            "area",
+            "sink",
+            "microwave",
+            "large",
+            "black",
+            "wooden",
+            "room",
+            "oven",
+            "blender"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007574.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 640
+    },
+    "requestId": "130bd014-e86d-49d0-800c-5cf26214b09b"
+}

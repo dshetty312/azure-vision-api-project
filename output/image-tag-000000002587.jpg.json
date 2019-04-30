@@ -1,0 +1,54 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "90773B",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Brown",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.44976673332522915,
+                "text": "a close up of a doughnut"
+            }
+        ],
+        "tags": [
+            "doughnut",
+            "indoor",
+            "donut",
+            "sitting",
+            "fruit",
+            "white",
+            "chocolate",
+            "table",
+            "laying",
+            "food",
+            "black",
+            "yellow",
+            "apple",
+            "pink"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002587.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 375,
+        "width": 500
+    },
+    "requestId": "b526c871-1f40-4078-b41f-bb4d110a1862"
+}

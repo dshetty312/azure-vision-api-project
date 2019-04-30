@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.01171875
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.01171875
+        }
+    ],
+    "color": {
+        "accentColor": "596972",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7689892522674775,
+                "text": "a large passenger jet flying over a bridge over a body of water"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "flying",
+            "bridge",
+            "water",
+            "large",
+            "building",
+            "river",
+            "traveling",
+            "passenger",
+            "crossing",
+            "high",
+            "seen",
+            "body",
+            "plane",
+            "cloudy",
+            "bird",
+            "airplane",
+            "white",
+            "air",
+            "blue"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001761.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 427
+    },
+    "requestId": "7c1d6e8e-30df-4967-8953-823b1b515b22"
+}

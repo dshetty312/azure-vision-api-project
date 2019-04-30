@@ -1,0 +1,49 @@
+{
+    "categories": [
+        {
+            "name": "indoor_room",
+            "score": 0.8671875
+        }
+    ],
+    "color": {
+        "accentColor": "425C89",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8326310241848365,
+                "text": "a living room filled with furniture and a tv"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "room",
+            "living",
+            "small",
+            "table",
+            "area",
+            "television",
+            "furniture",
+            "red",
+            "sitting",
+            "filled",
+            "bedroom",
+            "bed",
+            "large",
+            "pink",
+            "luggage"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000004495.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 375,
+        "width": 500
+    },
+    "requestId": "49ccaa36-687d-4799-88d4-c11b7161203d"
+}

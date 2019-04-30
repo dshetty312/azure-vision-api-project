@@ -1,0 +1,50 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.1640625
+        }
+    ],
+    "color": {
+        "accentColor": "155C4B",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7363165581018405,
+                "text": "a group of blue and white tiled floor"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "thing",
+            "object",
+            "sitting",
+            "small",
+            "tiled",
+            "green",
+            "white",
+            "dirty",
+            "room",
+            "sink",
+            "standing",
+            "blue",
+            "group"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000006818.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 427
+    },
+    "requestId": "5ea77bfe-fb40-4fb6-a16a-3c914e33ea5e"
+}

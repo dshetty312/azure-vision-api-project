@@ -1,0 +1,61 @@
+{
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.015625
+        }
+    ],
+    "color": {
+        "accentColor": "608249",
+        "dominantColorBackground": "Green",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Green",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9523438120960646,
+                "text": "a girl riding a wave on a surfboard in the ocean"
+            }
+        ],
+        "tags": [
+            "water",
+            "outdoor",
+            "surfing",
+            "sport",
+            "wave",
+            "ocean",
+            "riding",
+            "laying",
+            "black",
+            "board",
+            "small",
+            "man",
+            "young",
+            "woman",
+            "lying",
+            "girl",
+            "green",
+            "people",
+            "standing",
+            "yellow",
+            "beach",
+            "swimming"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002261.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "bf497c72-4b2b-4e79-9ae3-afa2de77d61b"
+}

@@ -1,0 +1,59 @@
+{
+    "categories": [
+        {
+            "name": "animal_dog",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "B8A113",
+        "dominantColorBackground": "Green",
+        "dominantColorForeground": "Brown",
+        "dominantColors": [
+            "Green",
+            "Brown",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8095958203375211,
+                "text": "a large brown bear standing on top of a lush green field"
+            }
+        ],
+        "tags": [
+            "bear",
+            "outdoor",
+            "grass",
+            "brown",
+            "animal",
+            "mammal",
+            "standing",
+            "looking",
+            "sitting",
+            "field",
+            "green",
+            "cat",
+            "large",
+            "dog",
+            "black",
+            "grassy",
+            "lush",
+            "face",
+            "water",
+            "close",
+            "sheep",
+            "white"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000000285.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 640,
+        "width": 586
+    },
+    "requestId": "3e9c4ab2-22f7-4e94-a720-77e7852e946a"
+}

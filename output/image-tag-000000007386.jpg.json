@@ -1,0 +1,71 @@
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        },
+        {
+            "name": "trans_bicycle",
+            "score": 0.85546875
+        }
+    ],
+    "color": {
+        "accentColor": "223964",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5503532376465667,
+                "text": "a motorcycle is parked in front of a picnic table"
+            }
+        ],
+        "tags": [
+            "grass",
+            "outdoor",
+            "chair",
+            "lawn",
+            "picnic",
+            "bench",
+            "parked",
+            "truck",
+            "sitting",
+            "table",
+            "wooden",
+            "front",
+            "park",
+            "black",
+            "motorcycle",
+            "furniture",
+            "field",
+            "old",
+            "large",
+            "red",
+            "man",
+            "standing",
+            "white",
+            "blue"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000007386.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 400,
+        "width": 600
+    },
+    "requestId": "0f1389e9-0edc-4f17-832e-49bbfea938ed"
+}

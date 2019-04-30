@@ -1,0 +1,59 @@
+{
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.015625
+        },
+        {
+            "name": "indoor_room",
+            "score": 0.78515625
+        }
+    ],
+    "color": {
+        "accentColor": "66433C",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black",
+            "White"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9301412219980562,
+                "text": "a bedroom with a bed and desk in a small room"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "bed",
+            "window",
+            "room",
+            "bedroom",
+            "table",
+            "chair",
+            "small",
+            "sitting",
+            "desk",
+            "green",
+            "corner",
+            "laptop",
+            "wooden",
+            "computer",
+            "large",
+            "white",
+            "living"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000001993.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 419,
+        "width": 640
+    },
+    "requestId": "eb7bd7ce-61b9-4127-bbb9-9996d9d3e3d7"
+}

@@ -1,0 +1,72 @@
+{
+    "categories": [
+        {
+            "name": "food_",
+            "score": 0.4765625
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.01171875
+        }
+    ],
+    "color": {
+        "accentColor": "A02F2B",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Red",
+            "Black"
+        ],
+        "isBWImg": false,
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9834890835256235,
+                "text": "a table topped with plates of food on a plate"
+            }
+        ],
+        "tags": [
+            "table",
+            "food",
+            "plate",
+            "sitting",
+            "bowl",
+            "red",
+            "picnic",
+            "topped",
+            "woman",
+            "filled",
+            "full",
+            "fruit",
+            "many",
+            "several",
+            "various",
+            "holding",
+            "people",
+            "white",
+            "glasses",
+            "large",
+            "water",
+            "meat",
+            "wine",
+            "group"
+        ]
+    },
+    "image_path": "https://cumulusstoragetest.blob.core.windows.net/input/000000002157.jpg",
+    "metadata": {
+        "format": "Jpeg",
+        "height": 427,
+        "width": 640
+    },
+    "requestId": "aa444e77-74da-4906-abe6-0a3f10955a4a"
+}
